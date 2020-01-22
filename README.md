@@ -8,7 +8,9 @@ the process to access this library into your project
 			maven { url 'https://jitpack.io' }
 		}
 	}
-2.add
+	
+ 
+ 2.add
 
 	dependencies {
 	        implementation 'com.github.sagarbhandari111:custom-toast:v1.0.0'
@@ -16,4 +18,4 @@ the process to access this library into your project
   
   3.used in your project
   
-   ToastMessage1.showMessage(Activity.this,message,imageresouce);
+   eg : ToastMessage1.showMessage(Activity.this,message,imageresouce);
